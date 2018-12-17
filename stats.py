@@ -66,10 +66,10 @@ for tweet in reduced:
 #            v +=1
 #        if(h['text']=="voteleave"):
 #            v = -1
-#        if(v==1):
-#            print(tweet['full_text'])
-#            print("-")
-#            tweets.append(tweet['full_text'])
+#    if(v==1):
+#    print(tweet['full_text'])
+#        print("-")
+#        tweets.append(tweet['full_text'])
 
 print(len(tweets))
             
